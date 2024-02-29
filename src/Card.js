@@ -5,9 +5,11 @@ class Card extends React.Component{
   render(){
     return(
       <div>
-        <img src="" alt="" />
+        <img src="https://robohash.org/faerwe" alt="robots" />
+        <div>
         <h3>Character Name</h3>
         <p>andrewlopezcodes@gmail.com</p>
+        </div>        
       </div>
     );
   };
