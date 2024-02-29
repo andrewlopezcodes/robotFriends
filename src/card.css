@@ -1,0 +1,28 @@
+.card {
+  background-color: lightgreen;
+  border-radius: 5px;
+  width: 250px;
+  height: 250px;
+  padding: 20px;
+  align-items: center;
+  margin: 5px;
+}
+
+img {
+  align-items: center;
+  height: 100px;  
+  width: 100px;  
+}
+
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+
+
+
+
+
